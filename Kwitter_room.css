@@ -1,0 +1,11 @@
+.body-background{
+    background-color: purple;
+  }
+  
+  .cool{
+    transition: transform .2s;
+  }
+  
+  .cool{
+    transform: scale(0.9);
+  }

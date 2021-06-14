@@ -1,0 +1,25 @@
+.body-background{
+  background-color: #B92C2C; 
+}
+
+#user_name{
+  width: 300px;
+}
+.nice{
+  color: purple;
+  font-family: monospace;
+  
+}
+#cool{
+  width: 100px;
+  border-radius: 60px;
+  
+}
+
+#login_button{
+  border-radius: 9px;
+  background-color: purple;
+  color: yellow;
+  
+
+}
